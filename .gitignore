@@ -1,0 +1,12 @@
+.idea
+
+venv
+node_modules
+*__pycache__*
+
+*.bb
+*.bed
+*.fa
+*.fna
+uploads
+output.json
